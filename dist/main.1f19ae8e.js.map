@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["window","$","jQuery","find","addClass"],"mappings":"AAAAA,MAAM,CAACC,CAAP,GAAWD,MAAM,CAACE,MAAlB;AAEAD,CAAC,CAAC,OAAD,CAAD,CAAWE,IAAX,CAAgB,QAAhB,EAA0BC,QAA1B,CAAmC,KAAnC,GAA0C","file":"main.1f19ae8e.js","sourceRoot":"..\\src","sourcesContent":["window.$ = window.jQuery\r\n\r\n$('#test').find('.child').addClass('red') // 请确保这句话成功执行"]}
